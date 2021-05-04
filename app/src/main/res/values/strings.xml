@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EnctiptString</string>
+    <string name="copy">Kopiuj</string>
+    <string name="keyStringInfo">Twój klucz odszyfrowania:</string>
+    <string name="finallyString">Odszyfrowany/Zaszyfrowany tekst:</string>
+    <string name="sendKey">Wpisz klucz odszyfrowywujący</string>
+    <string name="sendString">Wpisz zdanie</string>
+    <string name="Encrypt">Szyfruj</string>
+    <string name="Decrypt">Deszyfruj</string>
+    <string name="paste">Wklej</string>
+    <string name="EncryptedInfo">Zaszyfrowany tekst:</string>
+    <string name="DecryptedInfo">Odszyfrowany tekst:</string>
+    <string name="delete">Kasuj</string>
+    <string name="action_share">Wyślij</string>
+</resources>
